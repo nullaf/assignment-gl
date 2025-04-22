@@ -18,7 +18,7 @@ export function StepContent({
   totalSteps,
 }: StepContentProps) {
   return (
-    <div className="space-y-1 relative w-full whitespace-nowrap">
+    <div className="space-y-1 relative w-full whitespace-nowrap h-11">
       <div
         className={cn(
           'text-sm font-medium',
